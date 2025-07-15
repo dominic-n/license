@@ -26,5 +26,12 @@
       "shop.dafrao.co.ke",
       "www.shop.dafrao.co.ke"
     ]
+  },
+  "PROJ-BITRAT-09A52EB4-9EB6-4B90-997B-61B34503FC0B": {
+    "client_name": "Bitrate subdomain",
+    "authorized_domains": [
+      "www.benhan.co.ke",
+      "benhan.co.ke"
+    ]
   }
 }
