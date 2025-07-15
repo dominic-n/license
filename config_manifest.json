@@ -12,5 +12,12 @@
       "domain.com",
       "www.domain.com2"
     ]
+  },
+  "PROJ-DOMINI-43F2544F-1FDF-4F7E-A8C0-B6DFB519BD20": {
+    "client_name": "Dominic Local MAchine",
+    "authorized_domains": [
+      "127.0.0.1",
+      "localhost"
+    ]
   }
 }
