@@ -19,5 +19,12 @@
       "127.0.0.1",
       "localhost"
     ]
+  },
+  "PROJ-DAFRAO-887D99D8-B24A-4BED-8327-86726D5F2256": {
+    "client_name": "Dafrao Subdomain",
+    "authorized_domains": [
+      "shop.dafrao.co.ke",
+      "www.shop.dafrao.co.ke"
+    ]
   }
 }
