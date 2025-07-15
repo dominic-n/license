@@ -1,0 +1,16 @@
+{
+  "PROJ-TEST1-5A554AE6-CB76-40B7-91BC-ED242E5F0923": {
+    "client_name": "Test 1",
+    "authorized_domains": [
+      "domain.com",
+      "www.domain.com"
+    ]
+  },
+  "PROJ-TEST2-A80C40D3-D5F2-47B6-A316-F0EAACE438C9": {
+    "client_name": "Test 2",
+    "authorized_domains": [
+      "domain.com",
+      "www.domain.com2"
+    ]
+  }
+}
