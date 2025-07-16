@@ -30,8 +30,15 @@
   "PROJ-BITRAT-09A52EB4-9EB6-4B90-997B-61B34503FC0B": {
     "client_name": "Bitrate subdomain",
     "authorized_domains": [
-      "www.benhan.co.ke",
-      "benhan.co.ke"
+      "www.shop.benhan.co.ke",
+      "shop.benhan.co.ke"
+    ]
+  },
+  "PROJ-BITRAT-09A52EB4-9EB6-4B90-997B-61B34503FC0C": {
+    "client_name": "Bitrate subdomain main",
+    "authorized_domains": [
+      "www.shop.bitrate.co.ke",
+      "shop.bitrate.co.ke"
     ]
   }
 }
