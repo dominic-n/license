@@ -40,5 +40,12 @@
       "www.shop.bitrate.co.ke",
       "shop.bitrate.co.ke"
     ]
+  },
+  "PROJ-BITRAT-0BFAD0B9-52F4-46BF-873B-4402517B69C7": {
+    "client_name": "Bitrate second host",
+    "authorized_domains": [
+      "django.bitratedigital.co.ke",
+      "www.django.bitratedigital.co.ke"
+    ]
   }
 }
