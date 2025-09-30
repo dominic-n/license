@@ -24,7 +24,7 @@
     "client_name": "Dafrao Subdomain",
     "authorized_domains": [
       "shop.dafrao.co.ke",
-      "www.shop.dafrao.co.ke"
+      "www.shop.dafrao.co.ke",
       "dafrao.co.ke",
       "www.dafrao.co.ke"
     ]
