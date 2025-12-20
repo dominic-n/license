@@ -17,7 +17,9 @@
     "client_name": "Dominic Local MAchine",
     "authorized_domains": [
       "127.0.0.1",
-      "localhost"
+      "localhost",
+      "don.local",
+      "lenovo.local"
     ]
   },
   "PROJ-DAFRAO-887D99D8-B24A-4BED-8327-86726D5F2256": {
