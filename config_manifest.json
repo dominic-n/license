@@ -56,5 +56,16 @@
       "django.bitratedigital.co.ke",
       "www.django.bitratedigital.co.ke"
     ]
+  },
+  "PROJ-TRIBREK-0BFAD0B9-52F4-46BF-873B-4402517B69C7": {
+    "client_name": "Tribal Trek",
+    "authorized_domains": [
+      "tribaltrek.samuel-martins.com",
+      "www.tribaltrek.samuel-martins.com",
+      "tribaltrek.org",
+      "www.tribaltrek.org",
+      "tribaltrek.com",
+      "www.tribaltrek.com"
+    ]
   }
 }
