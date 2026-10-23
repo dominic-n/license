@@ -22,7 +22,7 @@
       "lenovo.local"
     ]
   },
-  "PROJ-DAFRAO-887D99D8-B24A-4BED-8327-86726D5F2256": {
+  "PROJ-DAFRAO-887D99D8-B24A-4BED-8327-86726D5F2256-added": {
     "client_name": "Dafrao Subdomain",
     "authorized_domains": [
       "shop.dafrao.co.ke",
@@ -57,7 +57,7 @@
       "www.django.bitratedigital.co.ke"
     ]
   },
-  "PROJ-TRIBREK-0BFAD0B9-52F4-46BF-873B-4402517B69C7": {
+  "PROJ-TRIBREK-0BFAD0B9-52F4-46BF-873B-4402517B69C7-added": {
     "client_name": "Tribal Trek",
     "authorized_domains": [
       "tribaltrek.samuel-martins.com",
